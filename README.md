@@ -9,7 +9,7 @@ Este Repositório estarei inserindo todos os exercícios que estou fazendo duran
 
 * Enumeradores (Enum)- 5 Aulas 
 * Mais Elementos básicos da linguagem Java - 10 Aulas
-*Programação multi-tarefas: Threads - 9 Aulas 
-*Trabalhando com Strings - 10 Aulas 
-*Classes Utilitárias (Datas, Locale, Math) - 16 Aulas 
+* Programação multi-tarefas: Threads - 9 Aulas 
+* Trabalhando com Strings - 10 Aulas 
+* Classes Utilitárias (Datas, Locale, Math) - 16 Aulas 
 
