@@ -1,4 +1,4 @@
-# Curso Java intermediario Loiane Groner
+# Curso Java intermediário Loiane Groner
 
 
 ## Repositório contendo exercícios práticos das aulas do curso de Java intermediário da Loiane Groner.
